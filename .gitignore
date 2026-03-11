@@ -1,0 +1,13 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Flutter and Build (handled by internal .gitignores, but good to have here too)
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
